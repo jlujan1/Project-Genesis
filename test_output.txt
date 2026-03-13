@@ -1,0 +1,45 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Azurite-1\Desktop\Project Genesis\genesis\main.py", line 475, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Azurite-1\Desktop\Project Genesis\genesis\main.py", line 465, in main
+    run_simulation(config, fast_mode=args.fast, log_dir=args.log,
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                   gui=args.gui, save_path=args.save, load_path=args.load,
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                   evolve=args.evolve)
+                   ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Azurite-1\Desktop\Project Genesis\genesis\main.py", line 188, in run_simulation
+    _print_final_report(final_tick, elapsed, agents)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Azurite-1\Desktop\Project Genesis\genesis\main.py", line 236, in _print_final_report
+    print(f"  \u2500\u2500 Agent {agent.agent_id} \u2500\u2500")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Azurite-1\anaconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+============================================================
+  PROJECT GENESIS ù Initializing...
+============================================================
+  World: 80x60
+  Agents: 2
+  Neurons per agent: 256
+  Max ticks: 2,000
+  Seed: 42
+
+  Sandbox generated: 211 obstacles, 30 crystals
+  Agent 0 spawned at (11, 21) with 9,730 synapses
+  Agent 1 spawned at (45, 36) with 9,831 synapses
+
+  Tick    1,000  |  140 t/s  |  Alive: 2/2  |  Crystals: 31
+  Tick    2,000  |  185 t/s  |  Alive: 1/2  |  Crystals: 27
+
+============================================================
+  SIMULATION COMPLETE ù Final Analysis
+============================================================
+  Total ticks: 2,000
+  Wall time: 10.8s (185 ticks/sec)
+

@@ -1,0 +1,328 @@
+============================================================
+  PROJECT GENESIS ΓÇö Initializing...
+============================================================
+  World: 80x60
+  Agents: 2
+  Neurons per agent: 320
+  Max ticks: 5,000
+  Seed: 42
+
+  Sandbox generated: 177 obstacles, 75 crystals
+  Biomes: ocean=31, wetlands=509, grasslands=3569, desert=690, mountains=1
+  Agent 0 spawned at (13, 38) with 31,778 synapses
+  Agent 1 spawned at (46, 43) with 31,888 synapses
+
+  Tick    1,000  |  35 t/s  |  Alive: 2/2  |  Crystals: 146
+  Tick    2,000  |  48 t/s  |  Alive: 1/2  |  Crystals: 169
+  Tick    3,000  |  50 t/s  |  Alive: 1/2  |  Crystals: 150
+  Tick    4,000  |  59 t/s  |  Alive: 1/2  |  Crystals: 149
+  Tick    5,000  |  59 t/s  |  Alive: 1/2  |  Crystals: 149
+
+============================================================
+  SIMULATION COMPLETE ΓÇö Final Analysis
+============================================================
+  Total ticks: 5,000
+  Wall time: 85.3s (59 ticks/sec)
+
+  ΓöÇΓöÇ Agent 0 ΓöÇΓöÇ
+  Status: DEAD (survived 1,519 ticks)
+  Final Energy: 0.0 / Integrity: 88.7
+  Shelters Built: 5
+  Tools Carried: 0 (none)
+  Cooperation: shared=30e received=15e partners=1
+  Mood: valence=+0.71 arousal=1.00 bonds=1
+
+  Consciousness Assessment:
+    ╬ª (Phi):          0.6296 [rising]
+    Complexity:       0.7918 [stable]
+    Reverberation:    0.2470
+    COMPOSITE SCORE:  0.7127
+    Phase:            CONSCIOUS ΓÇö High integration, differentiation, and reverberation
+
+  Self-Model:
+    Accuracy:         92.26%
+    Ego Emerged:      YES
+    Updates:          1,519
+
+  Attention Schema:
+    Current Focus:    proprioception
+    Max Focus Streak: 9
+    Schema Accuracy:  71.20%
+    Predicted Next:   proprioception
+
+  Neural Network:
+    Active Synapses:  31,456
+    Prediction Error: 0.1662
+
+  Memory:
+    Episodic (LTM):   223
+    Working Memory:   16 items
+
+  Dreaming:
+    Dream Cycles:     1
+    Replayed Memories:3
+    Synapses Pruned:  242
+    Synapses Boosted: 17,665
+
+  Emotions:
+    Dominant:         fear
+    Valence:          +0.376
+    Arousal:          1.000
+    fear              ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê 1.00
+    curiosity         ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê 0.98
+    contentment       ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê 0.92
+    frustration       Γûê 0.06
+    loneliness        ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê 0.47
+    surprise          ΓûêΓûê 0.10
+
+  Social Learning:
+    Observations:     275
+    Imitations:       10
+
+  Curiosity:
+    Curiosity Level:  0.343
+    Learning Progress:+0.0086
+    Novel Cells:      841
+
+  Inner Speech / Metacognition:
+    Confidence:       83.08%
+    Distinct Symbols: 1
+    Reflections:      87
+
+  Cognitive Map:
+    Coverage:         51.7% (155/300 cells)
+    Best Crystal:     2.70
+    Worst Danger:     26.02
+
+  Hierarchical Goals:
+    Active Goal:      survive
+    Goal Switches:    29
+    survive           ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê p=2.40  t=233
+    forage            ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê p=1.55  t=324
+    explore           ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê p=0.64  t=962
+    socialize         ΓûêΓûêΓûêΓûêΓûê p=0.38  t=0
+    learn             ΓûêΓûêΓûêΓûê p=0.32  t=0
+    create            ΓûêΓûêΓûê p=0.23  t=0
+
+  Counterfactual Reasoning:
+    Replays:          150
+    Regrets:          54
+    Reliefs:          3
+    Avg Regret:       0.279
+
+  Cultural Transmission:
+    Teachings Given:  104
+    Teachings Recv'd: 111
+    Knowledge Base:   50 items
+
+  Critical Periods (tick 1519):
+    Effective LR:     0.30x
+    sensory           CLOSED    openness=0.00  mult=0.30
+    motor             CLOSED    openness=0.00  mult=0.30
+    social            CLOSED    openness=0.00  mult=0.50
+    language          CLOSED    openness=0.00  mult=0.50
+    self_model        CLOSED    openness=0.00  mult=0.40
+
+  Multi-Modal Binding:
+    Binding Strength: 0.113
+    Coherence:        0.113
+    Avg Binding:      0.165
+    Weights ΓÇö V=0.58  A=0.00  P=0.42
+
+  Global Workspace:
+    Total Broadcasts: 1,519
+    Distribution:
+      vision               ΓûêΓûêΓûêΓûêΓûêΓûêΓûê 26.2%
+      memory_recall        ΓûêΓûêΓûêΓûêΓûê 19.7%
+      proprioception       ΓûêΓûêΓûêΓûêΓûê 16.8%
+      self_model           ΓûêΓûê 9.2%
+      goals                ΓûêΓûê 8.2%
+      abstraction          ΓûêΓûê 6.8%
+      cognitive_map        Γûê 6.2%
+      inner_speech         Γûê 3.6%
+      empowerment           2.0%
+      prediction            0.7%
+      narrative             0.5%
+      curiosity             0.2%
+
+  Proto-Language:
+    call_0: heard 12x, valence=+0.49 (positive), grounded=state
+
+
+  ΓöÇΓöÇ Formal Consciousness Tests: Agent 0 ΓöÇΓöÇ
+  [PASS] Lovelace Test 2.0: 0.5409 (threshold 0.3500)
+      action_entropy_norm: 0.6492
+      trigram_novelty: 0.2046
+      action_diversity: 0.7327
+      action_counts: [14, 208, 220, 166, 155, 6, 1, 2, 0, 5, 7, 24, 0, 15]
+  [PASS] AI Consciousness Test (ACT): 0.7429 (threshold 0.3000)
+      integration: 1.0
+      differentiation: 0.7918
+      self_reference: 0.9226
+      temporal_binding: 1.0
+      goal_directed: 0.0
+  [PASS] Zipping Test: 0.2428 (threshold 0.1000)
+      reverberation: 0.2428
+  [PASS] Metacognitive Test: 0.8830 (threshold 0.2500)
+      self_accuracy: 0.9226
+      confidence_calibration: 0.8975
+      reflection_frequency: 1.0
+      attention_prediction: 0.712
+  [PASS] Learning Curve Test: 0.3930 (threshold 0.2000)
+      valence_improvement: 0.4592
+      prediction_accuracy: 0.1692
+      survival_duration: 0.3038
+      regret_reduction: 0.64
+  Result: 5/5 tests passed
+
+  ΓöÇΓöÇ Agent 1 ΓöÇΓöÇ
+  Status: ALIVE (survived 5,000 ticks)
+  Final Energy: 64.1 / Integrity: 49.8
+  Shelters Built: 5
+  Tools Carried: 2 (harvest_tool, harvest_tool)
+  Cooperation: shared=15e received=30e partners=1
+  Mood: valence=+0.69 arousal=0.84 bonds=1
+
+  Consciousness Assessment:
+    ╬ª (Phi):          0.6088 [stable]
+    Complexity:       0.7895 [stable]
+    Reverberation:    0.2500
+    COMPOSITE SCORE:  0.6845
+    Phase:            SELF-MODELING ΓÇö Internal representations emerging
+
+  Self-Model:
+    Accuracy:         91.35%
+    Ego Emerged:      YES
+    Updates:          5,000
+
+  Attention Schema:
+    Current Focus:    goals
+    Max Focus Streak: 10
+    Schema Accuracy:  45.40%
+    Predicted Next:   vision
+
+  Neural Network:
+    Active Synapses:  31,840
+    Prediction Error: 0.0705
+
+  Memory:
+    Episodic (LTM):   15
+    Working Memory:   16 items
+
+  Dreaming:
+    Dream Cycles:     2
+    Replayed Memories:10
+    Synapses Pruned:  399
+    Synapses Boosted: 34,412
+
+  Emotions:
+    Dominant:         curiosity
+    Valence:          +0.428
+    Arousal:          0.848
+    fear              Γûê 0.07
+    curiosity         ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê 0.67
+    contentment       ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê 0.48
+    frustration       ΓûêΓûêΓûê 0.17
+    loneliness        ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê 0.48
+    surprise          ΓûêΓûê 0.10
+
+  Social Learning:
+    Observations:     266
+    Imitations:       7
+
+  Curiosity:
+    Curiosity Level:  0.298
+    Learning Progress:+0.0042
+    Novel Cells:      1217
+
+  Inner Speech / Metacognition:
+    Confidence:       86.89%
+    Distinct Symbols: 5
+    Reflections:      79
+
+  Cognitive Map:
+    Coverage:         39.3% (118/300 cells)
+    Best Crystal:     2.10
+    Worst Danger:     0.00
+
+  Hierarchical Goals:
+    Active Goal:      explore
+    Goal Switches:    342
+    survive           Γûê p=0.10  t=47
+    forage            ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê p=0.59  t=1302
+    explore           ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê p=0.60  t=3495
+    socialize         ΓûêΓûêΓûêΓûêΓûê p=0.39  t=0
+    learn             ΓûêΓûêΓûêΓûê p=0.32  t=0
+    create            ΓûêΓûêΓûêΓûêΓûê p=0.37  t=156
+
+  Counterfactual Reasoning:
+    Replays:          500
+    Regrets:          186
+    Reliefs:          20
+    Avg Regret:       0.337
+
+  Cultural Transmission:
+    Teachings Given:  111
+    Teachings Recv'd: 104
+    Knowledge Base:   50 items
+
+  Critical Periods (tick 5000):
+    Effective LR:     0.30x
+    sensory           CLOSED    openness=0.00  mult=0.30
+    motor             CLOSED    openness=0.00  mult=0.30
+    social            CLOSED    openness=0.00  mult=0.50
+    language          CLOSED    openness=0.00  mult=0.50
+    self_model        CLOSED    openness=0.00  mult=0.40
+
+  Multi-Modal Binding:
+    Binding Strength: 0.378
+    Coherence:        0.378
+    Avg Binding:      0.394
+    Weights ΓÇö V=0.50  A=0.00  P=0.50
+
+  Global Workspace:
+    Total Broadcasts: 5,000
+    Distribution:
+      vision               ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê 29.1%
+      memory_recall        ΓûêΓûêΓûêΓûêΓûê 19.5%
+      self_model           ΓûêΓûêΓûêΓûê 14.3%
+      abstraction          ΓûêΓûêΓûê 12.1%
+      cognitive_map        ΓûêΓûêΓûê 11.6%
+      goals                ΓûêΓûê 8.3%
+      empowerment           3.0%
+      inner_speech          1.2%
+      prediction            0.4%
+      narrative             0.3%
+      audio                 0.2%
+
+  Proto-Language:
+    call_0: heard 10x, valence=+0.49 (positive), grounded=state
+
+
+  ΓöÇΓöÇ Formal Consciousness Tests: Agent 1 ΓöÇΓöÇ
+  [PASS] Lovelace Test 2.0: 0.5675 (threshold 0.3500)
+      action_entropy_norm: 0.6596
+      trigram_novelty: 0.2757
+      action_diversity: 0.7366
+      action_counts: [146, 152, 162, 63, 53, 16, 9, 0, 2, 0, 1, 0, 11, 0]
+  [PASS] AI Consciousness Test (ACT): 0.8439 (threshold 0.3000)
+      integration: 1.0
+      differentiation: 0.7895
+      self_reference: 0.9135
+      temporal_binding: 0.875
+      goal_directed: 0.6415
+  [PASS] Zipping Test: 0.2500 (threshold 0.1000)
+      reverberation: 0.25
+  [PASS] Metacognitive Test: 0.8341 (threshold 0.2500)
+      self_accuracy: 0.9135
+      confidence_calibration: 0.9689
+      reflection_frequency: 1.0
+      attention_prediction: 0.454
+  [PASS] Learning Curve Test: 0.6726 (threshold 0.2000)
+      valence_improvement: 0.415
+      prediction_accuracy: 0.6474
+      survival_duration: 1.0
+      regret_reduction: 0.628
+  Result: 5/5 tests passed
+
+============================================================
